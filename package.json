@@ -1,0 +1,23 @@
+{
+  "name": "ascii-art-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamlorddop/ascii-art-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamlorddop/ascii-art-generator/issues"
+  },
+  "homepage": "https://github.com/iamlorddop/ascii-art-generator#readme",
+  "devDependencies": {
+    "readline-sync": "^1.4.10",
+    "sharp": "^0.33.2"
+  }
+}
